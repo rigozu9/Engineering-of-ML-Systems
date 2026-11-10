@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+!.env.example
+.ssh/
+.kube/
+*.pem
+*.key
+
+# CSC environment
+inventory.ini
+openstack.ipynb
+
+# macOS
+.DS_Store
