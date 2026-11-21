@@ -22,3 +22,6 @@ openstack.ipynb
 
 # macOS
 .DS_Store
+
+# Generated feature engineering artifacts
+feature_store/
