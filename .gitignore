@@ -25,3 +25,9 @@ openstack.ipynb
 
 # Generated feature engineering artifacts
 feature_store/
+
+# Optuna SQLite databases
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
