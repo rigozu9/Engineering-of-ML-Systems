@@ -28,6 +28,9 @@ feature_store/
 
 # Optuna SQLite databases
 *.sqlite3
+!optuna.sqlite3
+
+# SQLite temporary files
 *.sqlite3-journal
 *.sqlite3-wal
 *.sqlite3-shm
